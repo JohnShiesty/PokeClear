@@ -1,0 +1,17 @@
+#PokeClear by JohnShiesty
+#need help join our discord discord.gg/pokeorigins
+#Time | Set the time you want the pokemon to be cleared | Time is in ticks 72000 = 1 hour :)
+#Broadcast | Set the broadcast message for when pokemon are cleared
+#Reload | The reload message for the plugin
+#Invalid-Permission | The message it displays in chat when someone doesn't have permission to reload the plugin.
+
+#Times Help! | 1 hour = 72000 | 30 minutes = 3600 | 1 minute = 1200 | 1 second = 20
+
+Messages:
+  Reload: "&4Poke&fClear &7| &aHas been been reloaded"
+  Broadcast: "&4Poke&fClear &7| &ePokemon have been cleared&4!"
+  Invalid-Permission: "&4Poke&fClear &7| &cYou don't have permissions to execute this command"
+
+Time: 72000
+
+# ~ JohnShiesty | Discord: JohnShiesty#0069

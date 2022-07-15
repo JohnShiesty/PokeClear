@@ -1,0 +1,13 @@
+name: PokeClear
+version: '${project.version}'
+main: world.pokeorigins.mc.pokeclear.PokeClear
+api-version: 1.16
+authors: [ HankShiesty ]
+description: Clears pokemon entities for lag clear!
+website: Mc.PokeOrigins.World
+
+commands:
+  pcreload:
+    usage: /pcreload
+    description: reloads config.yml for pokeclear!
+    aliases: pcreload
